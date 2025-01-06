@@ -12,6 +12,7 @@ if (isset($_GET['dl'])) {
   </head>
   <body>
     <h1>Welcome to My PHP App</h1>
-    <a href="?dl">Go to Download Page</a>
+    <a href="?dl">Go to Download Page</a> <br> </br>
+    <a href="up">Go to Download Page</a>
   </body>
 </html>
